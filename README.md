@@ -1,5 +1,7 @@
 # Noteflow
 
+[![GitHub stars](https://img.shields.io/github/stars/atrislabs/noteflow?style=social)](https://github.com/atrislabs/noteflow/stargazers)
+
 A beautiful, native markdown editor for macOS. Write beautifully. Store locally. Sync intelligently.
 
 ![Noteflow](https://atris.ai/noteflow/og-image.png)
