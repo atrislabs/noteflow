@@ -78,3 +78,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 ---
 
 Made with care by [Atris AI](https://atris.ai)
+
+## Atris ecosystem
+
+Part of [atrislabs](https://github.com/atrislabs): [atris](https://github.com/atrislabs/atris) · [member](https://github.com/atrislabs/member) · [app.md](https://github.com/atrislabs/app.md)
